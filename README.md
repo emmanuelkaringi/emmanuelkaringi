@@ -1,4 +1,8 @@
-- 👋 Hi, I’m Emmanuel Karingi
+**Hi there 👋**
+
+[![@immah's Holopin board](https://holopin.me/immah)](https://holopin.io/@immah)
+
+- I’m Emmanuel Karingi
 - 👀 I’m interested in Data Engineering and Technical Writing.
 - 🌱 I’m currently learning Data Engineering.
 - 💞️ I’m looking to collaborate on Technical writing tasks, Open Source Projects, anything Python and Database related and Data engineering projects.
